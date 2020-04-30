@@ -1,4 +1,3 @@
-
 async function feed(parent, args, context) {
     const where = args.filter
         ? {
